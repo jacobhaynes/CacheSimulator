@@ -1,0 +1,22 @@
+Variable-
+L1_Icache_type		= Fully Associative
+L1_Icache_size		= 8KB
+L1_Dcache_type		= Fully Associative
+L1_Dcache_size		= 8KB
+L2_Ucache_type		= Fully Associative
+L2_Ucache_size		= 64KB
+Default- 
+L1_block_size		= 32
+L1_assoc				= 1
+L1_hit_time			= 1
+L1_miss_time		= 1
+L2_block_size		= 64
+L2_assoc				= 1
+L2_hit_time			= 4
+L2_miss_time		= 6
+L2_trasnfer_time	= 6
+L2_bus_width		= 16
+mem_sendaddr		= 10
+mem_ready			= 50
+mem_chunktime		= 20
+mem_chunksize		= 16

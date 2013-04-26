@@ -1,0 +1,542 @@
+filename = 2-4-way.txt
+=========================L1I=========================
+| V:1 D:0 Tag: 0x10089 	| V:1 D:0 Tag: 0x10064 	
+| V:1 D:0 Tag: 0x10089 	| V:1 D:0 Tag: 0x10064 	
+| V:1 D:0 Tag: 0x10089 	| V:1 D:0 Tag: 0x10091 	
+| V:1 D:0 Tag: 0x10089 	| V:1 D:0 Tag: 0x10064 	
+| V:1 D:0 Tag: 0x10089 	| V:1 D:0 Tag: 0x10088 	
+| V:1 D:0 Tag: 0x10088 	| V:1 D:0 Tag: 0x10064 	
+| V:1 D:0 Tag: 0x10089 	| V:1 D:0 Tag: 0x10093 	
+| V:1 D:0 Tag: 0x10089 	| V:1 D:0 Tag: 0x10093 	
+| V:1 D:0 Tag: 0x10089 	| V:1 D:0 Tag: 0x10091 	
+| V:1 D:0 Tag: 0x10089 	| V:1 D:0 Tag: 0x10088 	
+| V:1 D:0 Tag: 0x10089 	| V:1 D:0 Tag: 0x1007f 	
+| V:1 D:0 Tag: 0x10089 	| V:1 D:0 Tag: 0x1007f 	
+| V:1 D:0 Tag: 0x10089 	| V:1 D:0 Tag: 0x10093 	
+| V:1 D:0 Tag: 0x10089 	| V:1 D:0 Tag: 0x1007f 	
+| V:1 D:0 Tag: 0x1007f 	| V:1 D:0 Tag: 0x10088 	
+| V:1 D:0 Tag: 0x1005c 	| V:1 D:0 Tag: 0x1007f 	
+| V:1 D:0 Tag: 0x10000 	| V:1 D:0 Tag: 0x1005c 	
+| V:1 D:0 Tag: 0x10000 	| V:1 D:0 Tag: 0x1005c 	
+| V:1 D:0 Tag: 0x1005c 	| V:1 D:0 Tag: 0x10088 	
+| V:1 D:0 Tag: 0x10000 	| V:1 D:0 Tag: 0x1005c 	
+| V:1 D:0 Tag: 0x10000 	| V:1 D:0 Tag: 0x1005b 	
+| V:1 D:0 Tag: 0x10000 	| V:1 D:0 Tag: 0x1005c 	
+| V:1 D:0 Tag: 0x1005c 	| V:1 D:0 Tag: 0x1005b 	
+| V:1 D:0 Tag: 0x1005b 	| V:1 D:0 Tag: 0x10063 	
+| V:1 D:0 Tag: 0x1005b 	| V:1 D:0 Tag: 0x10063 	
+| V:1 D:0 Tag: 0x1005b 	| V:1 D:0 Tag: 0x10061 	
+| V:1 D:0 Tag: 0x1005b 	| V:1 D:0 Tag: 0x10061 	
+| V:1 D:0 Tag: 0x1005b 	| V:1 D:0 Tag: 0x10061 	
+| V:1 D:0 Tag: 0x1005b 	| V:1 D:0 Tag: 0x10061 	
+| V:1 D:0 Tag: 0x1005b 	| V:1 D:0 Tag: 0x10021 	
+| V:1 D:0 Tag: 0x1005b 	| V:1 D:0 Tag: 0x10021 	
+| V:1 D:0 Tag: 0x10061 	| V:1 D:0 Tag: 0x10053 	
+| V:1 D:0 Tag: 0x10061 	| V:1 D:0 Tag: 0x10053 	
+| V:1 D:0 Tag: 0x1002d 	| V:1 D:0 Tag: 0x10061 	
+| V:1 D:0 Tag: 0x10089 	| V:1 D:0 Tag: 0x1005b 	
+| V:1 D:0 Tag: 0x10089 	| V:1 D:0 Tag: 0x10064 	
+| V:1 D:0 Tag: 0x10089 	| V:1 D:0 Tag: 0x100e7 	
+| V:1 D:0 Tag: 0x10089 	| V:1 D:0 Tag: 0x100e7 	
+| V:1 D:0 Tag: 0x10089 	| V:1 D:0 Tag: 0x10088 	
+| V:1 D:0 Tag: 0x10088 	| V:1 D:0 Tag: 0x10085 	
+| V:1 D:0 Tag: 0x10089 	| V:1 D:0 Tag: 0x1005c 	
+| V:1 D:0 Tag: 0x10089 	| V:1 D:0 Tag: 0x1005c 	
+| V:1 D:0 Tag: 0x10085 	| V:1 D:0 Tag: 0x10021 	
+| V:1 D:0 Tag: 0x10085 	| V:1 D:0 Tag: 0x10021 	
+| V:1 D:0 Tag: 0x10085 	| V:1 D:0 Tag: 0x1002d 	
+| V:1 D:0 Tag: 0x1002c 	| V:1 D:0 Tag: 0x1005c 	
+| V:1 D:0 Tag: 0x1002c 	| V:1 D:0 Tag: 0x10082 	
+| V:1 D:0 Tag: 0x1002c 	| V:1 D:0 Tag: 0x10085 	
+| V:1 D:0 Tag: 0x10085 	| V:1 D:0 Tag: 0x10082 	
+| V:1 D:0 Tag: 0x10085 	| V:1 D:0 Tag: 0x10082 	
+| V:1 D:0 Tag: 0x10085 	| V:1 D:0 Tag: 0x10082 	
+| V:1 D:0 Tag: 0x1002c 	| V:1 D:0 Tag: 0x10082 	
+| V:1 D:0 Tag: 0x100a7 	| V:1 D:0 Tag: 0x10064 	
+| V:1 D:0 Tag: 0x100a7 	| V:1 D:0 Tag: 0x10064 	
+| V:1 D:0 Tag: 0x100a7 	| V:1 D:0 Tag: 0x10064 	
+| V:1 D:0 Tag: 0x100a7 	| V:1 D:0 Tag: 0x10064 	
+| V:1 D:0 Tag: 0x100a7 	| V:1 D:0 Tag: 0x1002c 	
+| V:1 D:0 Tag: 0x100a7 	| V:1 D:0 Tag: 0x1002c 	
+| V:1 D:0 Tag: 0x1002c 	| V:1 D:0 Tag: 0x10064 	
+| V:1 D:0 Tag: 0x10082 	| V:1 D:0 Tag: 0x10085 	
+| V:1 D:0 Tag: 0x1002c 	| V:1 D:0 Tag: 0x10085 	
+| V:1 D:0 Tag: 0x10082 	| V:1 D:0 Tag: 0x10064 	
+| V:1 D:0 Tag: 0x10064 	| V:1 D:0 Tag: 0x1005a 	
+| V:1 D:0 Tag: 0x1005a 	| V:1 D:0 Tag: 0x10026 	
+| V:1 D:0 Tag: 0x10026 	| V:1 D:0 Tag: 0x1005a 	
+| V:1 D:0 Tag: 0x10026 	| V:1 D:0 Tag: 0x1005a 	
+| V:1 D:0 Tag: 0x10026 	| V:1 D:0 Tag: 0x1005a 	
+| V:1 D:0 Tag: 0x10026 	| V:1 D:0 Tag: 0x10061 	
+| V:1 D:0 Tag: 0x10061 	| V:1 D:0 Tag: 0x10026 	
+| V:1 D:0 Tag: 0x10026 	| V:1 D:0 Tag: 0x10048 	
+| V:1 D:0 Tag: 0x10026 	| V:1 D:0 Tag: 0x10048 	
+| V:1 D:0 Tag: 0x10026 	| V:1 D:0 Tag: 0x10061 	
+| V:1 D:0 Tag: 0x10061 	| V:1 D:0 Tag: 0x10026 	
+| V:1 D:0 Tag: 0x10061 	| V:1 D:0 Tag: 0x10026 	
+| V:1 D:0 Tag: 0x1005c 	| V:1 D:0 Tag: 0x10061 	
+| V:1 D:0 Tag: 0x1005c 	| V:1 D:0 Tag: 0x10061 	
+| V:1 D:0 Tag: 0x1005a 	| V:1 D:0 Tag: 0x10061 	
+| V:1 D:0 Tag: 0x10026 	| V:1 D:0 Tag: 0x1005a 	
+| V:1 D:0 Tag: 0x10092 	| V:1 D:0 Tag: 0x10026 	
+| V:1 D:0 Tag: 0x1005c 	| V:1 D:0 Tag: 0x10026 	
+| V:1 D:0 Tag: 0x1005c 	| V:1 D:0 Tag: 0x10091 	
+| V:1 D:0 Tag: 0x10091 	| V:1 D:0 Tag: 0x10038 	
+| V:1 D:0 Tag: 0x10026 	| V:1 D:0 Tag: 0x10020 	
+| V:1 D:0 Tag: 0x10087 	| V:1 D:0 Tag: 0x10091 	
+| V:1 D:0 Tag: 0x10087 	| V:1 D:0 Tag: 0x10026 	
+| V:1 D:0 Tag: 0x10087 	| V:1 D:0 Tag: 0x10064 	
+| V:1 D:0 Tag: 0x10087 	| V:1 D:0 Tag: 0x10064 	
+| V:1 D:0 Tag: 0x10064 	| V:1 D:0 Tag: 0x10087 	
+| V:1 D:0 Tag: 0x10064 	| V:1 D:0 Tag: 0x1005a 	
+| V:1 D:0 Tag: 0x10064 	| V:1 D:0 Tag: 0x10091 	
+| V:1 D:0 Tag: 0x10092 	| V:1 D:0 Tag: 0x10064 	
+| V:1 D:0 Tag: 0x10092 	| V:1 D:0 Tag: 0x10064 	
+| V:1 D:0 Tag: 0x10063 	| V:1 D:0 Tag: 0x10091 	
+| V:1 D:0 Tag: 0x10063 	| V:1 D:0 Tag: 0x10091 	
+| V:1 D:0 Tag: 0x10063 	| V:1 D:0 Tag: 0x10091 	
+| V:1 D:0 Tag: 0x10086 	| V:1 D:0 Tag: 0x10063 	
+| V:1 D:0 Tag: 0x10086 	| V:1 D:0 Tag: 0x10091 	
+| V:1 D:0 Tag: 0x10086 	| V:1 D:0 Tag: 0x10063 	
+| V:1 D:0 Tag: 0x1007f 	| V:1 D:0 Tag: 0x10063 	
+| V:1 D:0 Tag: 0x1007f 	| V:1 D:0 Tag: 0x10093 	
+| V:1 D:0 Tag: 0x1007f 	| V:1 D:0 Tag: 0x10093 	
+| V:1 D:0 Tag: 0x1007f 	| V:1 D:0 Tag: 0x10093 	
+| V:1 D:0 Tag: 0x1007f 	| V:1 D:0 Tag: 0x10056 	
+| V:1 D:0 Tag: 0x1007f 	| V:1 D:0 Tag: 0x10056 	
+| V:1 D:0 Tag: 0x1007f 	| V:1 D:0 Tag: 0x10056 	
+| V:1 D:0 Tag: 0x1007f 	| V:1 D:0 Tag: 0x10093 	
+| V:1 D:0 Tag: 0x10056 	| V:1 D:0 Tag: 0x10093 	
+| V:1 D:0 Tag: 0x10056 	| V:1 D:0 Tag: 0x10060 	
+| V:1 D:0 Tag: 0x1007f 	| V:1 D:0 Tag: 0x10038 	
+| V:1 D:0 Tag: 0x1007f 	| V:1 D:0 Tag: 0x1005a 	
+| V:1 D:0 Tag: 0x1007f 	| V:1 D:0 Tag: 0x1005a 	
+| V:1 D:0 Tag: 0x10081 	| V:1 D:0 Tag: 0x10060 	
+| V:1 D:0 Tag: 0x10081 	| V:1 D:0 Tag: 0x10060 	
+| V:1 D:0 Tag: 0x10081 	| V:1 D:0 Tag: 0x10020 	
+| V:1 D:0 Tag: 0x10020 	| V:1 D:0 Tag: 0x10060 	
+| V:1 D:0 Tag: 0x10081 	| V:1 D:0 Tag: 0x10020 	
+| V:1 D:0 Tag: 0x10081 	| V:1 D:0 Tag: 0x1005a 	
+| V:1 D:0 Tag: 0x10081 	| V:1 D:0 Tag: 0x1005a 	
+| V:1 D:0 Tag: 0x10081 	| V:1 D:0 Tag: 0x1005a 	
+| V:1 D:0 Tag: 0x10081 	| V:1 D:0 Tag: 0x1005a 	
+| V:1 D:0 Tag: 0x10081 	| V:1 D:0 Tag: 0x10062 	
+| V:1 D:0 Tag: 0x10081 	| V:1 D:0 Tag: 0x10062 	
+| V:1 D:0 Tag: 0x10081 	| V:1 D:0 Tag: 0x1005a 	
+| V:1 D:0 Tag: 0x10081 	| V:1 D:0 Tag: 0x10063 	
+| V:1 D:0 Tag: 0x10081 	| V:1 D:0 Tag: 0x10063 	
+| V:1 D:0 Tag: 0x10088 	| V:1 D:0 Tag: 0x10081 	
+| V:1 D:0 Tag: 0x10088 	| V:1 D:0 Tag: 0x10060 	
+| V:1 D:0 Tag: 0x10088 	| V:1 D:0 Tag: 0x10090 	
+=========================L1D=========================
+| V:1 D:1 Tag: 0x80fff 	| V:1 D:1 Tag: 0x8000 	
+| V:1 D:1 Tag: 0x8000 	| V:1 D:1 Tag: 0x80fff 	
+| V:1 D:1 Tag: 0x80fff 	| V:1 D:0 Tag: 0x9746 	
+| V:1 D:1 Tag: 0x80fff 	| V:1 D:0 Tag: 0x89d7 	
+| V:1 D:1 Tag: 0x80fff 	| V:1 D:0 Tag: 0x89d7 	
+| V:1 D:0 Tag: 0x9746 	| V:1 D:0 Tag: 0x89d7 	
+| V:1 D:0 Tag: 0x10114 	| V:1 D:0 Tag: 0x89d7 	
+| V:1 D:0 Tag: 0x10114 	| V:1 D:0 Tag: 0x10126 	
+| V:1 D:0 Tag: 0x10114 	| V:1 D:0 Tag: 0x8000 	
+| V:1 D:1 Tag: 0x101dc 	| V:1 D:0 Tag: 0x101d2 	
+| V:1 D:0 Tag: 0x10114 	| V:1 D:1 Tag: 0x101ec 	
+| V:1 D:0 Tag: 0x10126 	| V:1 D:1 Tag: 0x80fff 	
+| V:1 D:1 Tag: 0x10114 	| V:1 D:0 Tag: 0x10126 	
+| V:1 D:1 Tag: 0x80fff 	| V:1 D:0 Tag: 0x900e 	
+| V:1 D:0 Tag: 0x10126 	| V:1 D:1 Tag: 0x80fff 	
+| V:1 D:0 Tag: 0x10126 	| V:1 D:1 Tag: 0x80fff 	
+| V:1 D:0 Tag: 0x10128 	| V:1 D:0 Tag: 0x1011e 	
+| V:1 D:0 Tag: 0x10128 	| V:1 D:0 Tag: 0x1011e 	
+| V:1 D:1 Tag: 0x101cc 	| V:1 D:0 Tag: 0x10127 	
+| V:1 D:0 Tag: 0x10127 	| V:1 D:1 Tag: 0x101ec 	
+| V:1 D:1 Tag: 0x80fff 	| V:1 D:0 Tag: 0x8000 	
+| V:1 D:0 Tag: 0x101d5 	| V:1 D:1 Tag: 0x80fff 	
+| V:1 D:0 Tag: 0x10127 	| V:1 D:0 Tag: 0x1005c 	
+| V:1 D:0 Tag: 0x10125 	| V:1 D:1 Tag: 0x80fff 	
+| V:1 D:0 Tag: 0x10114 	| V:1 D:0 Tag: 0x10125 	
+| V:1 D:0 Tag: 0x10114 	| V:1 D:0 Tag: 0x1011e 	
+| V:1 D:0 Tag: 0x80fff 	| V:1 D:0 Tag: 0x101dd 	
+| V:1 D:0 Tag: 0x10114 	| V:1 D:0 Tag: 0x10123 	
+| V:1 D:0 Tag: 0x10123 	| V:1 D:1 Tag: 0x85da 	
+| V:1 D:1 Tag: 0x10114 	| V:1 D:0 Tag: 0x10123 	
+| V:1 D:0 Tag: 0x10117 	| V:1 D:1 Tag: 0x101ed 	
+| V:1 D:1 Tag: 0x80fff 	| V:1 D:1 Tag: 0x85da 	
+| V:1 D:0 Tag: 0x10125 	| V:1 D:0 Tag: 0x10127 	
+| V:1 D:1 Tag: 0x80fff 	| V:1 D:0 Tag: 0x10113 	
+| V:1 D:1 Tag: 0x80fff 	| V:1 D:0 Tag: 0x1011a 	
+| V:1 D:1 Tag: 0x80fff 	| V:1 D:0 Tag: 0x1011a 	
+| V:1 D:1 Tag: 0x80fff 	| V:1 D:1 Tag: 0x85da 	
+| V:1 D:1 Tag: 0x80fff 	| V:1 D:0 Tag: 0x9b2c 	
+| V:1 D:1 Tag: 0x80fff 	| V:1 D:0 Tag: 0x101db 	
+| V:1 D:1 Tag: 0x101ed 	| V:1 D:1 Tag: 0x101db 	
+| V:1 D:0 Tag: 0x10127 	| V:1 D:1 Tag: 0x80fff 	
+| V:1 D:1 Tag: 0x10114 	| V:1 D:0 Tag: 0x10127 	
+| V:1 D:0 Tag: 0x10127 	| V:1 D:1 Tag: 0x10114 	
+| V:1 D:0 Tag: 0x10114 	| V:1 D:0 Tag: 0x1011e 	
+| V:1 D:0 Tag: 0x10114 	| V:1 D:0 Tag: 0x1011e 	
+| V:1 D:1 Tag: 0x101f3 	| V:1 D:0 Tag: 0x10114 	
+| V:1 D:1 Tag: 0x10114 	| V:1 D:0 Tag: 0x101f5 	
+| V:1 D:0 Tag: 0x101f3 	| V:1 D:0 Tag: 0x8b28 	
+| V:1 D:0 Tag: 0x10114 	| V:1 D:0 Tag: 0x101f3 	
+| V:1 D:0 Tag: 0x10112 	| V:1 D:0 Tag: 0x101f3 	
+| V:1 D:1 Tag: 0x80fff 	| V:1 D:0 Tag: 0x101f3 	
+| V:1 D:0 Tag: 0x101f3 	| V:1 D:0 Tag: 0x89d6 	
+| V:1 D:0 Tag: 0x101f3 	| V:1 D:0 Tag: 0x89d6 	
+| V:1 D:1 Tag: 0x80fff 	| V:1 D:1 Tag: 0x10213 	
+| V:1 D:1 Tag: 0x101db 	| V:1 D:0 Tag: 0x10113 	
+| V:1 D:1 Tag: 0x80fff 	| V:1 D:0 Tag: 0x10113 	
+| V:1 D:1 Tag: 0x80fff 	| V:1 D:0 Tag: 0x89d6 	
+| V:1 D:1 Tag: 0x80fff 	| V:1 D:0 Tag: 0x85da 	
+| V:1 D:0 Tag: 0x1011e 	| V:1 D:1 Tag: 0x80fff 	
+| V:1 D:1 Tag: 0x80fff 	| V:1 D:0 Tag: 0x8b28 	
+| V:1 D:1 Tag: 0x9001 	| V:1 D:1 Tag: 0x80fff 	
+| V:1 D:1 Tag: 0x9001 	| V:1 D:0 Tag: 0x8002 	
+| V:1 D:1 Tag: 0x9001 	| V:1 D:0 Tag: 0x80fff 	
+| V:1 D:1 Tag: 0x80fff 	| V:1 D:0 Tag: 0x10127 	
+| V:1 D:1 Tag: 0x80fff 	| V:1 D:0 Tag: 0x10127 	
+| V:1 D:1 Tag: 0x80fff 	| V:1 D:1 Tag: 0x9001 	
+| V:1 D:1 Tag: 0x80fff 	| V:1 D:1 Tag: 0x9001 	
+| V:1 D:1 Tag: 0x80fff 	| V:1 D:0 Tag: 0x10123 	
+| V:1 D:1 Tag: 0x80fff 	| V:1 D:1 Tag: 0x9001 	
+| V:1 D:1 Tag: 0x80fff 	| V:1 D:0 Tag: 0x10125 	
+| V:1 D:1 Tag: 0x80fff 	| V:1 D:0 Tag: 0x10125 	
+| V:1 D:1 Tag: 0x80fff 	| V:1 D:1 Tag: 0x10129 	
+| V:1 D:1 Tag: 0x80fff 	| V:1 D:0 Tag: 0x10125 	
+| V:1 D:1 Tag: 0x80fff 	| V:1 D:0 Tag: 0x10125 	
+| V:1 D:1 Tag: 0x80fff 	| V:1 D:0 Tag: 0x10121 	
+| V:1 D:0 Tag: 0x10121 	| V:1 D:0 Tag: 0x10125 	
+| V:1 D:1 Tag: 0x80fff 	| V:1 D:0 Tag: 0x10121 	
+| V:1 D:1 Tag: 0x80fff 	| V:1 D:1 Tag: 0x9b2c 	
+| V:1 D:1 Tag: 0x80fff 	| V:1 D:1 Tag: 0x9745 	
+| V:1 D:0 Tag: 0x80fff 	| V:1 D:0 Tag: 0x1011b 	
+| V:1 D:1 Tag: 0x80fff 	| V:1 D:1 Tag: 0x9745 	
+| V:1 D:1 Tag: 0x80fff 	| V:1 D:0 Tag: 0x101d3 	
+| V:1 D:1 Tag: 0x80fff 	| V:1 D:0 Tag: 0x10125 	
+| V:1 D:0 Tag: 0x80fff 	| V:1 D:0 Tag: 0x9747 	
+| V:1 D:1 Tag: 0x80fff 	| V:1 D:0 Tag: 0x101cb 	
+| V:1 D:1 Tag: 0x80fff 	| V:1 D:0 Tag: 0x100fd 	
+| V:1 D:1 Tag: 0x80fff 	| V:1 D:0 Tag: 0x100fd 	
+| V:1 D:0 Tag: 0x10113 	| V:1 D:0 Tag: 0x8003 	
+| V:1 D:0 Tag: 0x10113 	| V:1 D:1 Tag: 0x80ffe 	
+| V:1 D:0 Tag: 0x1011c 	| V:1 D:1 Tag: 0x80ffe 	
+| V:1 D:0 Tag: 0x1011c 	| V:1 D:0 Tag: 0x9010 	
+| V:1 D:0 Tag: 0x1011c 	| V:1 D:1 Tag: 0x80ffe 	
+| V:1 D:0 Tag: 0x8002 	| V:1 D:1 Tag: 0x80ffe 	
+| V:1 D:1 Tag: 0x101ea 	| V:1 D:1 Tag: 0x9746 	
+| V:1 D:0 Tag: 0x101ea 	| V:1 D:0 Tag: 0x8001 	
+| V:1 D:1 Tag: 0x9746 	| V:1 D:0 Tag: 0x8001 	
+| V:1 D:1 Tag: 0x101db 	| V:1 D:1 Tag: 0x101ea 	
+| V:1 D:1 Tag: 0x10113 	| V:1 D:0 Tag: 0x10123 	
+| V:1 D:1 Tag: 0x101cc 	| V:1 D:1 Tag: 0x101ea 	
+| V:1 D:0 Tag: 0x10123 	| V:1 D:0 Tag: 0x10122 	
+| V:1 D:0 Tag: 0x1011d 	| V:1 D:1 Tag: 0x9746 	
+| V:1 D:0 Tag: 0x1011d 	| V:1 D:0 Tag: 0x89d6 	
+| V:1 D:1 Tag: 0x101cb 	| V:1 D:1 Tag: 0x80ffe 	
+| V:1 D:0 Tag: 0x101cb 	| V:1 D:0 Tag: 0x89d6 	
+| V:1 D:1 Tag: 0x101ea 	| V:1 D:1 Tag: 0x101ee 	
+| V:1 D:1 Tag: 0x80ffe 	| V:1 D:1 Tag: 0x9746 	
+| V:1 D:1 Tag: 0x101ee 	| V:1 D:1 Tag: 0x80ffe 	
+| V:1 D:1 Tag: 0x80ffe 	| V:1 D:0 Tag: 0x9747 	
+| V:1 D:0 Tag: 0x9747 	| V:1 D:0 Tag: 0x89d6 	
+| V:1 D:0 Tag: 0x9747 	| V:1 D:1 Tag: 0x9746 	
+| V:1 D:1 Tag: 0x80ffe 	| V:1 D:0 Tag: 0x89d5 	
+| V:1 D:1 Tag: 0x80ffe 	| V:1 D:0 Tag: 0x101ce 	
+| V:1 D:1 Tag: 0x80ffe 	| V:1 D:1 Tag: 0x9746 	
+| V:1 D:0 Tag: 0x89d5 	| V:1 D:1 Tag: 0x9043 	
+| V:1 D:0 Tag: 0x89ad 	| V:1 D:1 Tag: 0x80ffe 	
+| V:1 D:1 Tag: 0x80ffe 	| V:1 D:0 Tag: 0x9043 	
+| V:1 D:1 Tag: 0x80ffe 	| V:1 D:1 Tag: 0x9746 	
+| V:1 D:1 Tag: 0x80ffe 	| V:1 D:0 Tag: 0x10125 	
+| V:1 D:1 Tag: 0x9011 	| V:1 D:0 Tag: 0x10112 	
+| V:1 D:1 Tag: 0x80ffe 	| V:1 D:0 Tag: 0x89d5 	
+| V:1 D:1 Tag: 0x80ffe 	| V:1 D:1 Tag: 0x9746 	
+| V:1 D:0 Tag: 0x9745 	| V:1 D:1 Tag: 0x80ffe 	
+| V:1 D:1 Tag: 0x80ffe 	| V:1 D:0 Tag: 0x89d5 	
+| V:1 D:1 Tag: 0x80ffe 	| V:1 D:0 Tag: 0x89d5 	
+| V:1 D:1 Tag: 0x80ffe 	| V:1 D:1 Tag: 0x9746 	
+| V:1 D:1 Tag: 0x80ffe 	| V:1 D:0 Tag: 0x10113 	
+| V:1 D:1 Tag: 0x80ffe 	| V:1 D:0 Tag: 0x9745 	
+| V:1 D:1 Tag: 0x80ffe 	| V:1 D:0 Tag: 0x10113 	
+=========================L2==========================
+| V:1 D:0 Tag: 0x4019 	| V:1 D:1 Tag: 0x2000 	| V:1 D:0 Tag: 0x4012 	| V:1 D:0 Tag: 0x4008 	
+| V:1 D:0 Tag: 0x4019 	| V:1 D:1 Tag: 0x2000 	| V:1 D:0 Tag: 0x4012 	| V:1 D:0 Tag: 0x244c 	
+| V:1 D:0 Tag: 0x4022 	| V:1 D:0 Tag: 0x4019 	| V:1 D:0 Tag: 0x4012 	| V:1 D:0 Tag: 0x4047 	
+| V:1 D:0 Tag: 0x4045 	| V:1 D:0 Tag: 0x4022 	| V:1 D:0 Tag: 0x4019 	| V:1 D:0 Tag: 0x2001 	
+| V:1 D:0 Tag: 0x4045 	| V:1 D:0 Tag: 0x4022 	| V:1 D:0 Tag: 0x2000 	| V:1 D:1 Tag: 0x4077 	
+| V:1 D:0 Tag: 0x4045 	| V:1 D:0 Tag: 0x4022 	| V:1 D:1 Tag: 0x4077 	| V:1 D:0 Tag: 0x407b 	
+| V:1 D:0 Tag: 0x4045 	| V:1 D:0 Tag: 0x4022 	| V:1 D:0 Tag: 0x4017 	| V:1 D:0 Tag: 0x2405 	
+| V:1 D:0 Tag: 0x4017 	| V:1 D:0 Tag: 0x4022 	| V:1 D:0 Tag: 0x22ca 	| V:1 D:0 Tag: 0x244f 	
+| V:1 D:0 Tag: 0x4000 	| V:1 D:0 Tag: 0x4017 	| V:1 D:0 Tag: 0x4022 	| V:1 D:0 Tag: 0x404a 	
+| V:1 D:0 Tag: 0x4073 	| V:1 D:1 Tag: 0x407b 	| V:1 D:0 Tag: 0x4000 	| V:1 D:0 Tag: 0x4017 	
+| V:1 D:0 Tag: 0x4000 	| V:1 D:0 Tag: 0x4017 	| V:1 D:0 Tag: 0x22ca 	| V:1 D:0 Tag: 0x2000 	
+| V:1 D:0 Tag: 0x4017 	| V:1 D:0 Tag: 0x2000 	| V:1 D:0 Tag: 0x22ca 	| V:1 D:0 Tag: 0x400c 	
+| V:1 D:0 Tag: 0x4045 	| V:1 D:0 Tag: 0x400c 	| V:1 D:0 Tag: 0x244f 	| V:1 D:1 Tag: 0x26cb 	
+| V:1 D:0 Tag: 0x4045 	| V:1 D:1 Tag: 0x26cb 	| V:1 D:0 Tag: 0x244c 	| V:1 D:0 Tag: 0x244f 	
+| V:1 D:0 Tag: 0x4045 	| V:1 D:0 Tag: 0x400c 	| V:1 D:1 Tag: 0x26cb 	| V:1 D:0 Tag: 0x244c 	
+| V:1 D:1 Tag: 0x26cb 	| V:1 D:0 Tag: 0x400c 	| V:1 D:0 Tag: 0x244f 	| V:1 D:0 Tag: 0x244c 	
+| V:1 D:1 Tag: 0x26cb 	| V:1 D:0 Tag: 0x244f 	| V:1 D:0 Tag: 0x21d3 	| V:1 D:0 Tag: 0x400e 	
+| V:1 D:0 Tag: 0x4019 	| V:1 D:1 Tag: 0x26cb 	| V:1 D:0 Tag: 0x21d3 	| V:1 D:0 Tag: 0x400e 	
+| V:1 D:1 Tag: 0x26cb 	| V:1 D:0 Tag: 0x4076 	| V:1 D:0 Tag: 0x21d3 	| V:1 D:0 Tag: 0x4047 	
+| V:1 D:0 Tag: 0x4021 	| V:1 D:0 Tag: 0x4022 	| V:1 D:0 Tag: 0x400b 	| V:1 D:1 Tag: 0x26cb 	
+| V:1 D:0 Tag: 0x4017 	| V:1 D:0 Tag: 0x4022 	| V:1 D:0 Tag: 0x4021 	| V:1 D:0 Tag: 0x4045 	
+| V:1 D:0 Tag: 0x4045 	| V:1 D:1 Tag: 0x26cb 	| V:1 D:0 Tag: 0x400e 	| V:1 D:0 Tag: 0x21d3 	
+| V:1 D:0 Tag: 0x4017 	| V:1 D:0 Tag: 0x4045 	| V:1 D:0 Tag: 0x400b 	| V:1 D:0 Tag: 0x22ca 	
+| V:1 D:0 Tag: 0x400b 	| V:1 D:0 Tag: 0x4045 	| V:1 D:1 Tag: 0x26cb 	| V:1 D:0 Tag: 0x22ca 	
+| V:1 D:0 Tag: 0x4045 	| V:1 D:0 Tag: 0x400b 	| V:1 D:1 Tag: 0x26cb 	| V:1 D:0 Tag: 0x22ca 	
+| V:1 D:0 Tag: 0x400b 	| V:1 D:1 Tag: 0x26cb 	| V:1 D:0 Tag: 0x22ca 	| V:1 D:0 Tag: 0x4047 	
+| V:1 D:0 Tag: 0x4019 	| V:1 D:1 Tag: 0x26cb 	| V:1 D:0 Tag: 0x400a 	| V:1 D:0 Tag: 0x217a 	
+| V:1 D:0 Tag: 0x4019 	| V:1 D:1 Tag: 0x26cb 	| V:1 D:0 Tag: 0x400b 	| V:1 D:0 Tag: 0x22ca 	
+| V:1 D:0 Tag: 0x400b 	| V:1 D:0 Tag: 0x4019 	| V:1 D:1 Tag: 0x26cb 	| V:1 D:0 Tag: 0x400a 	
+| V:1 D:1 Tag: 0x26cb 	| V:1 D:0 Tag: 0x400b 	| V:1 D:0 Tag: 0x4019 	| V:1 D:0 Tag: 0x400a 	
+| V:1 D:0 Tag: 0x400b 	| V:1 D:0 Tag: 0x4019 	| V:1 D:0 Tag: 0x400a 	| V:1 D:1 Tag: 0x26cb 	
+| V:1 D:0 Tag: 0x4019 	| V:1 D:1 Tag: 0x26cb 	| V:1 D:0 Tag: 0x400a 	| V:1 D:0 Tag: 0x4008 	
+| V:1 D:0 Tag: 0x4012 	| V:1 D:0 Tag: 0x4008 	| V:1 D:1 Tag: 0x26cb 	| V:1 D:0 Tag: 0x400c 	
+| V:1 D:1 Tag: 0x26cb 	| V:1 D:0 Tag: 0x4008 	| V:1 D:0 Tag: 0x400c 	| V:1 D:0 Tag: 0x400e 	
+| V:1 D:1 Tag: 0x26cb 	| V:1 D:0 Tag: 0x4012 	| V:1 D:0 Tag: 0x400c 	| V:1 D:0 Tag: 0x400e 	
+| V:1 D:1 Tag: 0x26cb 	| V:1 D:0 Tag: 0x4012 	| V:1 D:0 Tag: 0x4008 	| V:1 D:0 Tag: 0x400c 	
+| V:1 D:1 Tag: 0x26cb 	| V:1 D:0 Tag: 0x4008 	| V:1 D:0 Tag: 0x400c 	| V:1 D:0 Tag: 0x4047 	
+| V:1 D:1 Tag: 0x26cb 	| V:1 D:0 Tag: 0x4017 	| V:1 D:0 Tag: 0x400e 	| V:1 D:0 Tag: 0x4008 	
+| V:1 D:1 Tag: 0x26cb 	| V:1 D:0 Tag: 0x400e 	| V:1 D:0 Tag: 0x400c 	| V:1 D:0 Tag: 0x244c 	
+| V:1 D:0 Tag: 0x4017 	| V:1 D:0 Tag: 0x400e 	| V:1 D:0 Tag: 0x4008 	| V:1 D:0 Tag: 0x400c 	
+| V:1 D:0 Tag: 0x4017 	| V:1 D:0 Tag: 0x400e 	| V:1 D:0 Tag: 0x4008 	| V:1 D:0 Tag: 0x244c 	
+| V:1 D:0 Tag: 0x4008 	| V:1 D:0 Tag: 0x400e 	| V:1 D:0 Tag: 0x244c 	| V:1 D:0 Tag: 0x4047 	
+| V:1 D:0 Tag: 0x4019 	| V:1 D:0 Tag: 0x400e 	| V:1 D:0 Tag: 0x2472 	| V:1 D:0 Tag: 0x4076 	
+| V:1 D:0 Tag: 0x4019 	| V:1 D:0 Tag: 0x400e 	| V:1 D:0 Tag: 0x4008 	| V:1 D:0 Tag: 0x4047 	
+| V:1 D:0 Tag: 0x4019 	| V:1 D:0 Tag: 0x4018 	| V:1 D:0 Tag: 0x4047 	| V:1 D:0 Tag: 0x400e 	
+| V:1 D:0 Tag: 0x4019 	| V:1 D:0 Tag: 0x2404 	| V:1 D:0 Tag: 0x4047 	| V:1 D:0 Tag: 0x4018 	
+| V:1 D:0 Tag: 0x4049 	| V:1 D:0 Tag: 0x4018 	| V:1 D:0 Tag: 0x400e 	| V:1 D:0 Tag: 0x4047 	
+| V:1 D:0 Tag: 0x4018 	| V:1 D:0 Tag: 0x400e 	| V:1 D:0 Tag: 0x4049 	| V:1 D:0 Tag: 0x4008 	
+| V:1 D:0 Tag: 0x4073 	| V:1 D:0 Tag: 0x4018 	| V:1 D:0 Tag: 0x4047 	| V:1 D:0 Tag: 0x400e 	
+| V:1 D:0 Tag: 0x4073 	| V:1 D:0 Tag: 0x4018 	| V:1 D:0 Tag: 0x4024 	| V:1 D:0 Tag: 0x400e 	
+| V:1 D:0 Tag: 0x4018 	| V:1 D:0 Tag: 0x4047 	| V:1 D:0 Tag: 0x400e 	| V:1 D:0 Tag: 0x4024 	
+| V:1 D:0 Tag: 0x4024 	| V:1 D:0 Tag: 0x4018 	| V:1 D:0 Tag: 0x4047 	| V:1 D:0 Tag: 0x400e 	
+| V:1 D:0 Tag: 0x4024 	| V:1 D:0 Tag: 0x4018 	| V:1 D:0 Tag: 0x4008 	| V:1 D:0 Tag: 0x4047 	
+| V:1 D:0 Tag: 0x4018 	| V:1 D:0 Tag: 0x4008 	| V:1 D:0 Tag: 0x4047 	| V:1 D:0 Tag: 0x400e 	
+| V:1 D:0 Tag: 0x400e 	| V:1 D:1 Tag: 0x24d2 	| V:1 D:0 Tag: 0x4012 	| V:1 D:0 Tag: 0x4018 	
+| V:1 D:0 Tag: 0x4008 	| V:1 D:0 Tag: 0x2404 	| V:1 D:0 Tag: 0x4047 	| V:1 D:0 Tag: 0x400e 	
+| V:1 D:0 Tag: 0x4047 	| V:1 D:0 Tag: 0x4008 	| V:1 D:0 Tag: 0x400e 	| V:1 D:0 Tag: 0x24d2 	
+| V:1 D:0 Tag: 0x4008 	| V:1 D:0 Tag: 0x400e 	| V:1 D:0 Tag: 0x4018 	| V:1 D:0 Tag: 0x24d2 	
+| V:1 D:0 Tag: 0x400b 	| V:1 D:0 Tag: 0x4008 	| V:1 D:0 Tag: 0x400e 	| V:1 D:0 Tag: 0x4012 	
+| V:1 D:0 Tag: 0x400b 	| V:1 D:0 Tag: 0x400e 	| V:1 D:0 Tag: 0x4012 	| V:1 D:0 Tag: 0x24d2 	
+| V:1 D:0 Tag: 0x400b 	| V:1 D:0 Tag: 0x400e 	| V:1 D:0 Tag: 0x4018 	| V:1 D:0 Tag: 0x24d2 	
+| V:1 D:0 Tag: 0x4018 	| V:1 D:0 Tag: 0x400e 	| V:1 D:0 Tag: 0x24d2 	| V:1 D:0 Tag: 0x4012 	
+| V:1 D:0 Tag: 0x4022 	| V:1 D:0 Tag: 0x4018 	| V:1 D:0 Tag: 0x400b 	| V:1 D:0 Tag: 0x400e 	
+| V:1 D:0 Tag: 0x4022 	| V:1 D:0 Tag: 0x4024 	| V:1 D:0 Tag: 0x4018 	| V:1 D:0 Tag: 0x400b 	
+| V:1 D:0 Tag: 0x4022 	| V:1 D:0 Tag: 0x4024 	| V:1 D:0 Tag: 0x400b 	| V:1 D:0 Tag: 0x24d2 	
+| V:1 D:0 Tag: 0x4022 	| V:1 D:0 Tag: 0x4024 	| V:1 D:0 Tag: 0x4018 	| V:1 D:0 Tag: 0x400b 	
+| V:1 D:0 Tag: 0x4022 	| V:1 D:0 Tag: 0x4024 	| V:1 D:0 Tag: 0x400b 	| V:1 D:0 Tag: 0x400e 	
+| V:1 D:0 Tag: 0x4022 	| V:1 D:0 Tag: 0x4024 	| V:1 D:0 Tag: 0x400b 	| V:1 D:0 Tag: 0x400e 	
+| V:1 D:0 Tag: 0x4022 	| V:1 D:0 Tag: 0x4024 	| V:1 D:0 Tag: 0x4018 	| V:1 D:0 Tag: 0x400c 	
+| V:1 D:0 Tag: 0x4022 	| V:1 D:0 Tag: 0x4024 	| V:1 D:0 Tag: 0x4018 	| V:1 D:0 Tag: 0x24d2 	
+| V:1 D:0 Tag: 0x4022 	| V:1 D:0 Tag: 0x4018 	| V:1 D:0 Tag: 0x24d2 	| V:1 D:0 Tag: 0x400c 	
+| V:1 D:0 Tag: 0x4018 	| V:1 D:0 Tag: 0x400c 	| V:1 D:0 Tag: 0x244a 	| V:1 D:0 Tag: 0x2407 	
+| V:1 D:0 Tag: 0x4018 	| V:1 D:0 Tag: 0x400c 	| V:1 D:0 Tag: 0x4017 	| V:1 D:0 Tag: 0x2407 	
+| V:1 D:0 Tag: 0x4018 	| V:1 D:0 Tag: 0x244a 	| V:1 D:0 Tag: 0x217b 	| V:1 D:1 Tag: 0x26ca 	
+| V:1 D:0 Tag: 0x4018 	| V:1 D:0 Tag: 0x4075 	| V:1 D:0 Tag: 0x244a 	| V:1 D:0 Tag: 0x4017 	
+| V:1 D:0 Tag: 0x4049 	| V:1 D:0 Tag: 0x403a 	| V:1 D:0 Tag: 0x4018 	| V:1 D:1 Tag: 0x26ca 	
+| V:1 D:0 Tag: 0x4049 	| V:1 D:0 Tag: 0x4018 	| V:1 D:0 Tag: 0x2407 	| V:1 D:0 Tag: 0x4016 	
+| V:1 D:0 Tag: 0x4077 	| V:1 D:0 Tag: 0x4018 	| V:1 D:0 Tag: 0x4016 	| V:1 D:0 Tag: 0x2179 	
+| V:1 D:0 Tag: 0x4018 	| V:1 D:0 Tag: 0x4075 	| V:1 D:0 Tag: 0x2005 	| V:1 D:0 Tag: 0x4010 	
+| V:1 D:0 Tag: 0x407b 	| V:1 D:0 Tag: 0x4018 	| V:1 D:0 Tag: 0x2005 	| V:1 D:0 Tag: 0x4075 	
+| V:1 D:0 Tag: 0x4049 	| V:1 D:0 Tag: 0x4077 	| V:1 D:0 Tag: 0x400b 	| V:1 D:0 Tag: 0x4018 	
+| V:1 D:0 Tag: 0x4022 	| V:1 D:0 Tag: 0x2407 	| V:1 D:0 Tag: 0x400b 	| V:1 D:0 Tag: 0x4018 	
+| V:1 D:0 Tag: 0x4022 	| V:1 D:0 Tag: 0x21b2 	| V:1 D:0 Tag: 0x400b 	| V:1 D:1 Tag: 0x26c7 	
+| V:1 D:0 Tag: 0x4022 	| V:1 D:0 Tag: 0x4021 	| V:1 D:1 Tag: 0x407b 	| V:1 D:0 Tag: 0x21b2 	
+| V:1 D:0 Tag: 0x4022 	| V:1 D:1 Tag: 0x407b 	| V:1 D:0 Tag: 0x4021 	| V:1 D:0 Tag: 0x4008 	
+| V:1 D:0 Tag: 0x4021 	| V:1 D:0 Tag: 0x4008 	| V:1 D:0 Tag: 0x400b 	| V:1 D:0 Tag: 0x244c 	
+| V:1 D:0 Tag: 0x4021 	| V:1 D:0 Tag: 0x407d 	| V:1 D:0 Tag: 0x400b 	| V:1 D:0 Tag: 0x4008 	
+| V:1 D:0 Tag: 0x407d 	| V:1 D:0 Tag: 0x4021 	| V:1 D:0 Tag: 0x400b 	| V:1 D:0 Tag: 0x4008 	
+| V:1 D:0 Tag: 0x4021 	| V:1 D:0 Tag: 0x400b 	| V:1 D:0 Tag: 0x21b1 	| V:1 D:0 Tag: 0x4008 	
+| V:1 D:0 Tag: 0x4021 	| V:1 D:0 Tag: 0x400b 	| V:1 D:0 Tag: 0x4008 	| V:1 D:0 Tag: 0x21b1 	
+| V:1 D:0 Tag: 0x4021 	| V:1 D:0 Tag: 0x400b 	| V:1 D:0 Tag: 0x407b 	| V:1 D:0 Tag: 0x4008 	
+| V:1 D:0 Tag: 0x4021 	| V:1 D:0 Tag: 0x400b 	| V:1 D:0 Tag: 0x4008 	| V:1 D:0 Tag: 0x240b 	
+| V:1 D:0 Tag: 0x4008 	| V:1 D:0 Tag: 0x4018 	| V:1 D:1 Tag: 0x2472 	| V:1 D:0 Tag: 0x21ae 	
+| V:1 D:0 Tag: 0x4021 	| V:1 D:0 Tag: 0x4008 	| V:1 D:0 Tag: 0x4018 	| V:1 D:1 Tag: 0x2472 	
+| V:1 D:0 Tag: 0x4021 	| V:1 D:0 Tag: 0x2400 	| V:1 D:0 Tag: 0x4008 	| V:1 D:0 Tag: 0x4018 	
+| V:1 D:1 Tag: 0x2400 	| V:1 D:0 Tag: 0x407b 	| V:1 D:0 Tag: 0x4008 	| V:1 D:0 Tag: 0x4018 	
+| V:1 D:1 Tag: 0x2400 	| V:1 D:0 Tag: 0x4018 	| V:1 D:0 Tag: 0x4008 	| V:1 D:0 Tag: 0x2404 	
+| V:1 D:1 Tag: 0x2400 	| V:1 D:1 Tag: 0x2404 	| V:1 D:0 Tag: 0x4018 	| V:1 D:0 Tag: 0x4008 	
+| V:1 D:0 Tag: 0x4049 	| V:1 D:1 Tag: 0x2400 	| V:1 D:0 Tag: 0x4018 	| V:1 D:0 Tag: 0x4077 	
+| V:1 D:0 Tag: 0x404a 	| V:1 D:1 Tag: 0x2400 	| V:1 D:0 Tag: 0x4049 	| V:1 D:0 Tag: 0x4018 	
+| V:1 D:0 Tag: 0x4049 	| V:1 D:1 Tag: 0x25d1 	| V:1 D:1 Tag: 0x2400 	| V:1 D:0 Tag: 0x4018 	
+| V:1 D:0 Tag: 0x4048 	| V:1 D:0 Tag: 0x4049 	| V:1 D:1 Tag: 0x2400 	| V:1 D:1 Tag: 0x25d1 	
+| V:1 D:0 Tag: 0x4048 	| V:1 D:0 Tag: 0x4049 	| V:1 D:0 Tag: 0x4018 	| V:1 D:0 Tag: 0x4077 	
+| V:1 D:1 Tag: 0x25d1 	| V:1 D:0 Tag: 0x21ae 	| V:1 D:1 Tag: 0x2400 	| V:1 D:0 Tag: 0x2444 	
+| V:1 D:0 Tag: 0x4024 	| V:1 D:1 Tag: 0x25d1 	| V:1 D:0 Tag: 0x4018 	| V:1 D:0 Tag: 0x21ae 	
+| V:1 D:0 Tag: 0x4049 	| V:1 D:0 Tag: 0x4024 	| V:1 D:1 Tag: 0x25d1 	| V:1 D:0 Tag: 0x4018 	
+| V:1 D:0 Tag: 0x403f 	| V:1 D:0 Tag: 0x4018 	| V:1 D:0 Tag: 0x4008 	| V:1 D:1 Tag: 0x26ca 	
+| V:1 D:1 Tag: 0x25d1 	| V:1 D:0 Tag: 0x403f 	| V:1 D:0 Tag: 0x4018 	| V:1 D:0 Tag: 0x400c 	
+| V:1 D:0 Tag: 0x4024 	| V:1 D:0 Tag: 0x4018 	| V:1 D:0 Tag: 0x400c 	| V:1 D:0 Tag: 0x2000 	
+| V:1 D:0 Tag: 0x4024 	| V:1 D:0 Tag: 0x4018 	| V:1 D:0 Tag: 0x400c 	| V:1 D:0 Tag: 0x2000 	
+| V:1 D:0 Tag: 0x4024 	| V:1 D:0 Tag: 0x4018 	| V:1 D:0 Tag: 0x400c 	| V:1 D:0 Tag: 0x2000 	
+| V:1 D:0 Tag: 0x4024 	| V:1 D:0 Tag: 0x2000 	| V:1 D:0 Tag: 0x4018 	| V:1 D:0 Tag: 0x25d1 	
+| V:1 D:0 Tag: 0x4024 	| V:1 D:0 Tag: 0x25d1 	| V:1 D:0 Tag: 0x2000 	| V:1 D:0 Tag: 0x4077 	
+| V:1 D:0 Tag: 0x2000 	| V:1 D:0 Tag: 0x4018 	| V:1 D:0 Tag: 0x25d1 	| V:1 D:0 Tag: 0x4011 	
+| V:1 D:0 Tag: 0x4047 	| V:1 D:0 Tag: 0x4018 	| V:1 D:0 Tag: 0x25d1 	| V:1 D:0 Tag: 0x21ae 	
+| V:1 D:0 Tag: 0x4018 	| V:1 D:0 Tag: 0x4046 	| V:1 D:0 Tag: 0x25d1 	| V:1 D:0 Tag: 0x21ae 	
+| V:1 D:1 Tag: 0x2404 	| V:1 D:0 Tag: 0x4049 	| V:1 D:0 Tag: 0x4046 	| V:1 D:0 Tag: 0x4018 	
+| V:1 D:0 Tag: 0x4049 	| V:1 D:0 Tag: 0x4018 	| V:1 D:0 Tag: 0x25d1 	| V:1 D:0 Tag: 0x4046 	
+| V:1 D:0 Tag: 0x2275 	| V:1 D:0 Tag: 0x4049 	| V:1 D:0 Tag: 0x4046 	| V:1 D:0 Tag: 0x4018 	
+| V:1 D:0 Tag: 0x4020 	| V:1 D:0 Tag: 0x2275 	| V:1 D:0 Tag: 0x4049 	| V:1 D:0 Tag: 0x4077 	
+| V:1 D:0 Tag: 0x4020 	| V:1 D:0 Tag: 0x2275 	| V:1 D:0 Tag: 0x4018 	| V:1 D:0 Tag: 0x25d1 	
+| V:1 D:0 Tag: 0x4020 	| V:1 D:0 Tag: 0x226b 	| V:1 D:0 Tag: 0x4046 	| V:1 D:0 Tag: 0x25d1 	
+| V:1 D:0 Tag: 0x4020 	| V:1 D:0 Tag: 0x2275 	| V:1 D:0 Tag: 0x4046 	| V:1 D:0 Tag: 0x25d1 	
+| V:1 D:0 Tag: 0x4020 	| V:1 D:0 Tag: 0x2404 	| V:1 D:0 Tag: 0x2275 	| V:1 D:0 Tag: 0x4046 	
+| V:1 D:0 Tag: 0x4020 	| V:1 D:0 Tag: 0x2275 	| V:1 D:0 Tag: 0x4074 	| V:1 D:0 Tag: 0x25d1 	
+| V:1 D:0 Tag: 0x4020 	| V:1 D:0 Tag: 0x2275 	| V:1 D:0 Tag: 0x25d1 	| V:1 D:0 Tag: 0x4046 	
+| V:1 D:0 Tag: 0x4020 	| V:1 D:0 Tag: 0x4049 	| V:1 D:0 Tag: 0x4046 	| V:1 D:0 Tag: 0x4077 	
+| V:1 D:0 Tag: 0x25d1 	| V:1 D:0 Tag: 0x2004 	| V:1 D:0 Tag: 0x2406 	| V:1 D:0 Tag: 0x4074 	
+| V:1 D:0 Tag: 0x25d1 	| V:1 D:0 Tag: 0x4074 	| V:1 D:0 Tag: 0x2472 	| V:1 D:0 Tag: 0x4046 	
+| V:1 D:0 Tag: 0x25d1 	| V:1 D:0 Tag: 0x4074 	| V:1 D:0 Tag: 0x4014 	| V:1 D:0 Tag: 0x400d 	
+| V:1 D:0 Tag: 0x25d1 	| V:1 D:0 Tag: 0x4074 	| V:1 D:0 Tag: 0x4014 	| V:1 D:0 Tag: 0x400d 	
+| V:1 D:0 Tag: 0x4049 	| V:1 D:0 Tag: 0x403a 	| V:1 D:0 Tag: 0x4074 	| V:1 D:0 Tag: 0x4014 	
+| V:1 D:0 Tag: 0x4074 	| V:1 D:0 Tag: 0x4014 	| V:1 D:0 Tag: 0x400d 	| V:1 D:0 Tag: 0x4008 	
+| V:1 D:0 Tag: 0x4049 	| V:1 D:0 Tag: 0x4014 	| V:1 D:0 Tag: 0x4074 	| V:1 D:0 Tag: 0x400d 	
+| V:1 D:0 Tag: 0x4049 	| V:1 D:0 Tag: 0x2403 	| V:1 D:0 Tag: 0x4014 	| V:1 D:0 Tag: 0x400d 	
+| V:1 D:0 Tag: 0x4049 	| V:1 D:0 Tag: 0x2403 	| V:1 D:0 Tag: 0x4014 	| V:1 D:0 Tag: 0x400d 	
+| V:1 D:0 Tag: 0x4047 	| V:1 D:0 Tag: 0x4014 	| V:1 D:0 Tag: 0x2005 	| V:1 D:0 Tag: 0x2192 	
+| V:1 D:0 Tag: 0x4014 	| V:1 D:0 Tag: 0x2192 	| V:1 D:1 Tag: 0x2472 	| V:1 D:0 Tag: 0x4008 	
+| V:1 D:0 Tag: 0x240a 	| V:1 D:0 Tag: 0x4014 	| V:1 D:0 Tag: 0x2192 	| V:1 D:0 Tag: 0x4017 	
+| V:1 D:0 Tag: 0x4014 	| V:1 D:0 Tag: 0x4018 	| V:1 D:1 Tag: 0x26ca 	| V:1 D:0 Tag: 0x4017 	
+| V:1 D:0 Tag: 0x4047 	| V:1 D:0 Tag: 0x4014 	| V:1 D:1 Tag: 0x244d 	| V:1 D:0 Tag: 0x4017 	
+| V:1 D:1 Tag: 0x2176 	| V:1 D:1 Tag: 0x244d 	| V:1 D:1 Tag: 0x203ff 	| V:1 D:0 Tag: 0x2177 	
+| V:1 D:1 Tag: 0x2176 	| V:1 D:0 Tag: 0x244d 	| V:1 D:0 Tag: 0x21b1 	| V:1 D:0 Tag: 0x4008 	
+| V:1 D:1 Tag: 0x2176 	| V:1 D:1 Tag: 0x244e 	| V:1 D:0 Tag: 0x240a 	| V:1 D:0 Tag: 0x21b1 	
+| V:1 D:1 Tag: 0x2176 	| V:1 D:0 Tag: 0x4046 	| V:1 D:0 Tag: 0x244e 	| V:1 D:0 Tag: 0x21b1 	
+| V:1 D:1 Tag: 0x2176 	| V:1 D:0 Tag: 0x4046 	| V:1 D:0 Tag: 0x244e 	| V:1 D:0 Tag: 0x4008 	
+| V:1 D:1 Tag: 0x2176 	| V:1 D:0 Tag: 0x4018 	| V:1 D:0 Tag: 0x21b1 	| V:1 D:0 Tag: 0x24a6 	
+| V:1 D:1 Tag: 0x2176 	| V:1 D:0 Tag: 0x21b1 	| V:1 D:0 Tag: 0x24a6 	| V:1 D:1 Tag: 0x203ff 	
+| V:1 D:0 Tag: 0x4018 	| V:1 D:1 Tag: 0x2176 	| V:1 D:0 Tag: 0x21b1 	| V:1 D:1 Tag: 0x203ff 	
+| V:1 D:0 Tag: 0x4047 	| V:1 D:0 Tag: 0x4018 	| V:1 D:1 Tag: 0x2176 	| V:1 D:0 Tag: 0x21b1 	
+| V:1 D:0 Tag: 0x4047 	| V:1 D:1 Tag: 0x2176 	| V:1 D:0 Tag: 0x21b1 	| V:1 D:0 Tag: 0x4046 	
+| V:1 D:0 Tag: 0x4020 	| V:1 D:1 Tag: 0x2176 	| V:1 D:0 Tag: 0x21b1 	| V:1 D:1 Tag: 0x203ff 	
+| V:1 D:0 Tag: 0x4044 	| V:1 D:0 Tag: 0x4020 	| V:1 D:0 Tag: 0x2275 	| V:1 D:0 Tag: 0x400d 	
+| V:1 D:0 Tag: 0x4020 	| V:1 D:0 Tag: 0x2275 	| V:1 D:0 Tag: 0x400d 	| V:1 D:0 Tag: 0x21b1 	
+| V:1 D:0 Tag: 0x4020 	| V:1 D:0 Tag: 0x4016 	| V:1 D:0 Tag: 0x407a 	| V:1 D:0 Tag: 0x2275 	
+| V:1 D:0 Tag: 0x4020 	| V:1 D:0 Tag: 0x4016 	| V:1 D:0 Tag: 0x2275 	| V:1 D:1 Tag: 0x2176 	
+| V:1 D:0 Tag: 0x4020 	| V:1 D:0 Tag: 0x4016 	| V:1 D:0 Tag: 0x2275 	| V:1 D:1 Tag: 0x203ff 	
+| V:1 D:0 Tag: 0x4047 	| V:1 D:0 Tag: 0x4020 	| V:1 D:1 Tag: 0x203ff 	| V:1 D:0 Tag: 0x400d 	
+| V:1 D:0 Tag: 0x4020 	| V:1 D:0 Tag: 0x4016 	| V:1 D:0 Tag: 0x4009 	| V:1 D:0 Tag: 0x2000 	
+| V:1 D:0 Tag: 0x4016 	| V:1 D:0 Tag: 0x4009 	| V:1 D:1 Tag: 0x203ff 	| V:1 D:0 Tag: 0x4018 	
+| V:1 D:1 Tag: 0x203ff 	| V:1 D:0 Tag: 0x4016 	| V:1 D:0 Tag: 0x4009 	| V:1 D:0 Tag: 0x4018 	
+| V:1 D:1 Tag: 0x203ff 	| V:1 D:0 Tag: 0x4016 	| V:1 D:0 Tag: 0x4009 	| V:1 D:0 Tag: 0x4018 	
+| V:1 D:0 Tag: 0x4009 	| V:1 D:0 Tag: 0x22ca 	| V:1 D:1 Tag: 0x203ff 	| V:1 D:0 Tag: 0x4018 	
+| V:1 D:0 Tag: 0x4009 	| V:1 D:0 Tag: 0x22ca 	| V:1 D:1 Tag: 0x203ff 	| V:1 D:0 Tag: 0x4018 	
+| V:1 D:1 Tag: 0x203ff 	| V:1 D:0 Tag: 0x22ca 	| V:1 D:0 Tag: 0x4009 	| V:1 D:1 Tag: 0x26ca 	
+| V:1 D:1 Tag: 0x203ff 	| V:1 D:0 Tag: 0x4009 	| V:1 D:0 Tag: 0x22ca 	| V:1 D:1 Tag: 0x2176 	
+| V:1 D:0 Tag: 0x4016 	| V:1 D:1 Tag: 0x203ff 	| V:1 D:0 Tag: 0x4009 	| V:1 D:0 Tag: 0x22ca 	
+| V:1 D:0 Tag: 0x4024 	| V:1 D:1 Tag: 0x203ff 	| V:1 D:0 Tag: 0x4016 	| V:1 D:0 Tag: 0x22ca 	
+| V:1 D:1 Tag: 0x203ff 	| V:1 D:0 Tag: 0x22ca 	| V:1 D:0 Tag: 0x4009 	| V:1 D:0 Tag: 0x2055 	
+| V:1 D:1 Tag: 0x203ff 	| V:1 D:0 Tag: 0x22ca 	| V:1 D:0 Tag: 0x4046 	| V:1 D:0 Tag: 0x4009 	
+| V:1 D:1 Tag: 0x203ff 	| V:1 D:0 Tag: 0x4016 	| V:1 D:0 Tag: 0x22ca 	| V:1 D:0 Tag: 0x4046 	
+| V:1 D:0 Tag: 0x4016 	| V:1 D:1 Tag: 0x203ff 	| V:1 D:0 Tag: 0x4046 	| V:1 D:0 Tag: 0x22ca 	
+| V:1 D:0 Tag: 0x4016 	| V:1 D:0 Tag: 0x4009 	| V:1 D:1 Tag: 0x203ff 	| V:1 D:0 Tag: 0x22ca 	
+| V:1 D:0 Tag: 0x4024 	| V:1 D:0 Tag: 0x4016 	| V:1 D:1 Tag: 0x203ff 	| V:1 D:0 Tag: 0x4009 	
+| V:1 D:0 Tag: 0x407a 	| V:1 D:0 Tag: 0x25d1 	| V:1 D:1 Tag: 0x203ff 	| V:1 D:0 Tag: 0x2000 	
+| V:1 D:0 Tag: 0x4021 	| V:1 D:0 Tag: 0x407a 	| V:1 D:1 Tag: 0x203ff 	| V:1 D:0 Tag: 0x25d1 	
+| V:1 D:1 Tag: 0x407a 	| V:1 D:0 Tag: 0x4021 	| V:1 D:0 Tag: 0x4016 	| V:1 D:1 Tag: 0x25d1 	
+| V:1 D:0 Tag: 0x4016 	| V:1 D:0 Tag: 0x407a 	| V:1 D:0 Tag: 0x2275 	| V:1 D:1 Tag: 0x203ff 	
+| V:1 D:0 Tag: 0x4015 	| V:1 D:0 Tag: 0x25d1 	| V:1 D:0 Tag: 0x4016 	| V:1 D:0 Tag: 0x2275 	
+| V:1 D:1 Tag: 0x203ff 	| V:1 D:1 Tag: 0x25d1 	| V:1 D:0 Tag: 0x4015 	| V:1 D:0 Tag: 0x4009 	
+| V:1 D:0 Tag: 0x4015 	| V:1 D:0 Tag: 0x203ff 	| V:1 D:0 Tag: 0x407a 	| V:1 D:0 Tag: 0x25d1 	
+| V:1 D:0 Tag: 0x4015 	| V:1 D:1 Tag: 0x203ff 	| V:1 D:1 Tag: 0x407b 	| V:1 D:0 Tag: 0x4009 	
+| V:1 D:0 Tag: 0x25d1 	| V:1 D:1 Tag: 0x203ff 	| V:1 D:0 Tag: 0x4016 	| V:1 D:0 Tag: 0x2275 	
+| V:1 D:1 Tag: 0x203ff 	| V:1 D:0 Tag: 0x4016 	| V:1 D:0 Tag: 0x2054 	| V:1 D:0 Tag: 0x4073 	
+| V:1 D:1 Tag: 0x203ff 	| V:1 D:0 Tag: 0x25d1 	| V:1 D:0 Tag: 0x2054 	| V:1 D:0 Tag: 0x2275 	
+| V:1 D:0 Tag: 0x4044 	| V:1 D:1 Tag: 0x203ff 	| V:1 D:0 Tag: 0x2054 	| V:1 D:0 Tag: 0x2275 	
+| V:1 D:1 Tag: 0x203ff 	| V:1 D:0 Tag: 0x25d1 	| V:1 D:0 Tag: 0x4016 	| V:1 D:0 Tag: 0x4046 	
+| V:1 D:1 Tag: 0x203ff 	| V:1 D:0 Tag: 0x4016 	| V:1 D:0 Tag: 0x4018 	| V:1 D:0 Tag: 0x4044 	
+| V:1 D:1 Tag: 0x203ff 	| V:1 D:0 Tag: 0x25d1 	| V:1 D:0 Tag: 0x4018 	| V:1 D:0 Tag: 0x4046 	
+| V:1 D:1 Tag: 0x203ff 	| V:1 D:0 Tag: 0x4016 	| V:1 D:0 Tag: 0x2275 	| V:1 D:0 Tag: 0x4018 	
+| V:1 D:1 Tag: 0x203ff 	| V:1 D:0 Tag: 0x25d1 	| V:1 D:0 Tag: 0x2275 	| V:1 D:0 Tag: 0x4018 	
+| V:1 D:1 Tag: 0x203ff 	| V:1 D:0 Tag: 0x4018 	| V:1 D:0 Tag: 0x2275 	| V:1 D:0 Tag: 0x4015 	
+| V:1 D:1 Tag: 0x203ff 	| V:1 D:1 Tag: 0x25d1 	| V:1 D:0 Tag: 0x4018 	| V:1 D:0 Tag: 0x2001 	
+| V:1 D:0 Tag: 0x4009 	| V:1 D:0 Tag: 0x2275 	| V:1 D:0 Tag: 0x4018 	| V:1 D:1 Tag: 0x203ff 	
+| V:1 D:1 Tag: 0x203ff 	| V:1 D:0 Tag: 0x4018 	| V:1 D:0 Tag: 0x2275 	| V:1 D:0 Tag: 0x4046 	
+| V:1 D:1 Tag: 0x203ff 	| V:1 D:0 Tag: 0x4024 	| V:1 D:0 Tag: 0x2275 	| V:1 D:0 Tag: 0x4018 	
+| V:1 D:1 Tag: 0x203ff 	| V:1 D:0 Tag: 0x4018 	| V:1 D:0 Tag: 0x4009 	| V:1 D:0 Tag: 0x4015 	
+| V:1 D:0 Tag: 0x401f 	| V:1 D:1 Tag: 0x203ff 	| V:1 D:0 Tag: 0x4018 	| V:1 D:0 Tag: 0x4009 	
+| V:1 D:1 Tag: 0x203ff 	| V:1 D:0 Tag: 0x401f 	| V:1 D:0 Tag: 0x4024 	| V:1 D:0 Tag: 0x4018 	
+| V:1 D:0 Tag: 0x401f 	| V:1 D:0 Tag: 0x4016 	| V:1 D:1 Tag: 0x203ff 	| V:1 D:0 Tag: 0x4009 	
+| V:1 D:0 Tag: 0x4016 	| V:1 D:0 Tag: 0x401f 	| V:1 D:1 Tag: 0x203ff 	| V:1 D:0 Tag: 0x4018 	
+| V:1 D:0 Tag: 0x4049 	| V:1 D:1 Tag: 0x203ff 	| V:1 D:0 Tag: 0x4016 	| V:1 D:0 Tag: 0x401f 	
+| V:1 D:0 Tag: 0x4016 	| V:1 D:1 Tag: 0x203ff 	| V:1 D:0 Tag: 0x4018 	| V:1 D:0 Tag: 0x400b 	
+| V:1 D:0 Tag: 0x4049 	| V:1 D:0 Tag: 0x4016 	| V:1 D:0 Tag: 0x4018 	| V:1 D:0 Tag: 0x203ff 	
+| V:1 D:1 Tag: 0x203ff 	| V:1 D:0 Tag: 0x4016 	| V:1 D:1 Tag: 0x24d2 	| V:1 D:0 Tag: 0x4018 	
+| V:1 D:0 Tag: 0x4016 	| V:1 D:0 Tag: 0x4048 	| V:1 D:1 Tag: 0x203ff 	| V:1 D:1 Tag: 0x24d2 	
+| V:1 D:0 Tag: 0x4016 	| V:1 D:1 Tag: 0x203ff 	| V:1 D:1 Tag: 0x24d2 	| V:1 D:0 Tag: 0x4048 	
+| V:1 D:0 Tag: 0x4045 	| V:1 D:1 Tag: 0x203ff 	| V:1 D:0 Tag: 0x4016 	| V:1 D:0 Tag: 0x4048 	
+| V:1 D:0 Tag: 0x4049 	| V:1 D:1 Tag: 0x203ff 	| V:1 D:0 Tag: 0x4044 	| V:1 D:0 Tag: 0x4048 	
+| V:1 D:0 Tag: 0x4016 	| V:1 D:1 Tag: 0x203ff 	| V:1 D:0 Tag: 0x4014 	| V:1 D:0 Tag: 0x244d 	
+| V:1 D:0 Tag: 0x4039 	| V:1 D:1 Tag: 0x203ff 	| V:1 D:0 Tag: 0x24d2 	| V:1 D:0 Tag: 0x244d 	
+| V:1 D:1 Tag: 0x203ff 	| V:1 D:1 Tag: 0x4076 	| V:1 D:0 Tag: 0x244d 	| V:1 D:1 Tag: 0x26ca 	
+| V:1 D:0 Tag: 0x4049 	| V:1 D:1 Tag: 0x203ff 	| V:1 D:0 Tag: 0x4018 	| V:1 D:0 Tag: 0x24d2 	
+| V:1 D:0 Tag: 0x4049 	| V:1 D:1 Tag: 0x203ff 	| V:1 D:0 Tag: 0x24d2 	| V:1 D:0 Tag: 0x244d 	
+| V:1 D:1 Tag: 0x407c 	| V:1 D:1 Tag: 0x203ff 	| V:1 D:0 Tag: 0x24d2 	| V:1 D:0 Tag: 0x244d 	
+| V:1 D:0 Tag: 0x407c 	| V:1 D:1 Tag: 0x203ff 	| V:1 D:0 Tag: 0x4048 	| V:1 D:0 Tag: 0x244d 	
+| V:1 D:0 Tag: 0x407c 	| V:1 D:1 Tag: 0x203ff 	| V:1 D:0 Tag: 0x4009 	| V:1 D:0 Tag: 0x4007 	
+| V:1 D:0 Tag: 0x407c 	| V:1 D:1 Tag: 0x203ff 	| V:1 D:0 Tag: 0x4009 	| V:1 D:0 Tag: 0x4007 	
+| V:1 D:0 Tag: 0x4029 	| V:1 D:1 Tag: 0x4084 	| V:1 D:0 Tag: 0x407c 	| V:1 D:1 Tag: 0x203ff 	
+| V:1 D:0 Tag: 0x4029 	| V:1 D:0 Tag: 0x4076 	| V:1 D:1 Tag: 0x203ff 	| V:1 D:0 Tag: 0x407c 	
+| V:1 D:0 Tag: 0x4029 	| V:1 D:0 Tag: 0x203ff 	| V:1 D:0 Tag: 0x4007 	| V:1 D:0 Tag: 0x4074 	
+| V:1 D:0 Tag: 0x203ff 	| V:1 D:1 Tag: 0x26ca 	| V:1 D:0 Tag: 0x2471 	| V:1 D:1 Tag: 0x2455 	
+| V:1 D:0 Tag: 0x203ff 	| V:1 D:1 Tag: 0x26ca 	| V:1 D:0 Tag: 0x4046 	| V:1 D:0 Tag: 0x2471 	
+| V:1 D:0 Tag: 0x4049 	| V:1 D:0 Tag: 0x203ff 	| V:1 D:0 Tag: 0x4007 	| V:1 D:1 Tag: 0x26ca 	
+| V:1 D:0 Tag: 0x4049 	| V:1 D:0 Tag: 0x203ff 	| V:1 D:0 Tag: 0x4007 	| V:1 D:1 Tag: 0x2411 	
+| V:1 D:0 Tag: 0x203ff 	| V:1 D:0 Tag: 0x4048 	| V:1 D:0 Tag: 0x24d2 	| V:1 D:0 Tag: 0x2002 	
+| V:1 D:1 Tag: 0x203ff 	| V:1 D:0 Tag: 0x4084 	| V:1 D:0 Tag: 0x4007 	| V:1 D:0 Tag: 0x2410 	
+| V:1 D:0 Tag: 0x203ff 	| V:1 D:1 Tag: 0x25ee 	| V:1 D:0 Tag: 0x4007 	| V:1 D:0 Tag: 0x2411 	
+| V:1 D:0 Tag: 0x203ff 	| V:1 D:1 Tag: 0x25ee 	| V:1 D:0 Tag: 0x24d2 	| V:1 D:0 Tag: 0x4007 	
+| V:1 D:1 Tag: 0x4076 	| V:1 D:0 Tag: 0x203ff 	| V:1 D:1 Tag: 0x25ee 	| V:1 D:0 Tag: 0x400b 	
+| V:1 D:0 Tag: 0x203ff 	| V:1 D:0 Tag: 0x24d2 	| V:1 D:0 Tag: 0x400b 	| V:1 D:1 Tag: 0x26ca 	
+| V:1 D:0 Tag: 0x203ff 	| V:1 D:0 Tag: 0x4046 	| V:1 D:0 Tag: 0x24d2 	| V:1 D:0 Tag: 0x400b 	
+| V:1 D:0 Tag: 0x203ff 	| V:1 D:0 Tag: 0x4074 	| V:1 D:0 Tag: 0x4046 	| V:1 D:0 Tag: 0x400b 	
+| V:1 D:0 Tag: 0x4021 	| V:1 D:0 Tag: 0x203ff 	| V:1 D:0 Tag: 0x25d1 	| V:1 D:0 Tag: 0x4046 	
+| V:1 D:0 Tag: 0x4021 	| V:1 D:0 Tag: 0x203ff 	| V:1 D:0 Tag: 0x4072 	| V:1 D:0 Tag: 0x4046 	
+| V:1 D:0 Tag: 0x4021 	| V:1 D:0 Tag: 0x4044 	| V:1 D:0 Tag: 0x203ff 	| V:1 D:0 Tag: 0x25d1 	
+| V:1 D:0 Tag: 0x4044 	| V:1 D:0 Tag: 0x4074 	| V:1 D:0 Tag: 0x4046 	| V:1 D:0 Tag: 0x4007 	
+| V:1 D:0 Tag: 0x4018 	| V:1 D:0 Tag: 0x4007 	| V:1 D:0 Tag: 0x244d 	| V:1 D:0 Tag: 0x25d1 	
+| V:1 D:0 Tag: 0x4018 	| V:1 D:0 Tag: 0x244d 	| V:1 D:0 Tag: 0x2187 	| V:1 D:0 Tag: 0x21d2 	
+| V:1 D:0 Tag: 0x4018 	| V:1 D:0 Tag: 0x244d 	| V:1 D:0 Tag: 0x2187 	| V:1 D:0 Tag: 0x21d2 	
+| V:1 D:0 Tag: 0x4044 	| V:1 D:0 Tag: 0x4048 	| V:1 D:0 Tag: 0x4018 	| V:1 D:1 Tag: 0x4076 	
+| V:1 D:0 Tag: 0x401f 	| V:1 D:0 Tag: 0x4024 	| V:1 D:0 Tag: 0x4018 	| V:1 D:0 Tag: 0x4048 	
+| V:1 D:0 Tag: 0x401f 	| V:1 D:0 Tag: 0x4024 	| V:1 D:0 Tag: 0x4048 	| V:1 D:0 Tag: 0x4007 	
+| V:1 D:0 Tag: 0x4072 	| V:1 D:0 Tag: 0x401f 	| V:1 D:0 Tag: 0x4024 	| V:1 D:0 Tag: 0x4048 	
+| V:1 D:0 Tag: 0x401f 	| V:1 D:0 Tag: 0x4024 	| V:1 D:0 Tag: 0x22c9 	| V:1 D:0 Tag: 0x4048 	
+| V:1 D:0 Tag: 0x4024 	| V:1 D:0 Tag: 0x25d1 	| V:1 D:0 Tag: 0x22c9 	| V:1 D:0 Tag: 0x4007 	
+| V:1 D:0 Tag: 0x401f 	| V:1 D:0 Tag: 0x25d1 	| V:1 D:0 Tag: 0x4048 	| V:1 D:0 Tag: 0x4007 	
+| V:1 D:0 Tag: 0x401f 	| V:1 D:1 Tag: 0x2410 	| V:1 D:0 Tag: 0x4007 	| V:1 D:0 Tag: 0x21b7 	
+| V:1 D:1 Tag: 0x2410 	| V:1 D:1 Tag: 0x26ca 	| V:1 D:0 Tag: 0x21b7 	| V:1 D:0 Tag: 0x4017 	
+| V:1 D:0 Tag: 0x2410 	| V:1 D:0 Tag: 0x4007 	| V:1 D:0 Tag: 0x2000 	| V:1 D:1 Tag: 0x26ca 	
+| V:1 D:0 Tag: 0x2410 	| V:1 D:0 Tag: 0x4011 	| V:1 D:0 Tag: 0x4007 	| V:1 D:1 Tag: 0x26ca 	
+| V:1 D:0 Tag: 0x2410 	| V:1 D:0 Tag: 0x4048 	| V:1 D:0 Tag: 0x24d2 	| V:1 D:0 Tag: 0x4007 	
+| V:1 D:0 Tag: 0x2410 	| V:1 D:0 Tag: 0x4011 	| V:1 D:0 Tag: 0x24d2 	| V:1 D:0 Tag: 0x4007 	
+| V:1 D:0 Tag: 0x4018 	| V:1 D:1 Tag: 0x26ca 	| V:1 D:0 Tag: 0x24d2 	| V:1 D:0 Tag: 0x4011 	
+| V:1 D:0 Tag: 0x4044 	| V:1 D:1 Tag: 0x26ca 	| V:1 D:0 Tag: 0x4018 	| V:1 D:0 Tag: 0x2000 	
+| V:1 D:0 Tag: 0x4044 	| V:1 D:0 Tag: 0x4018 	| V:1 D:0 Tag: 0x4011 	| V:1 D:0 Tag: 0x4048 	
+Final Execution Time: 5207601639
+instructionCount: 1097097610
+loadInst 339675083
+bracnhInst 181044249
+storeInst 145026522
+compInst 431351756
+
+loadCyc 2360390892
+bracnhCyc 442686621
+storeCyc 1229362920
+compCyc 1175161206
+
+L1I_hit 1067014581
+L1I_miss 30083029
+L1I_evictions 0
+
+L1D_hit 444306793
+L1D_miss 40394812
+L1D_evictions 16639941
+
+L2_hit 79656541
+L2_miss 7461241
+L2_evictions 3283592
+
+
+Runtime 477.885612
